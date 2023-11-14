@@ -126,8 +126,8 @@
   }
 
   .cell {
-    height: 0.2rem;
-    width: 0.2rem;
+    height: 0.8rem;
+    width: 0.8rem;
     border: 1px solid #ccc;
     cursor: pointer;
   }
