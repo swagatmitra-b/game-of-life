@@ -131,4 +131,8 @@
     border: 1px solid #ccc;
     cursor: pointer;
   }
+
+  button {
+    padding: 0.5rem 1rem;
+  }
 </style>
